@@ -5,7 +5,7 @@ final products = [
     'price': 44.52,
     'imageUrl': 'assets/images/shoes_1.png',
     'company': 'Nike',
-    'sizes': [9.0, 10.0, 11.0, 12.0],
+    'sizes': [9, 10, 11, 12],
   },
   {
     'id': '1',
@@ -13,7 +13,7 @@ final products = [
     'price': 20.12,
     'imageUrl': 'assets/images/shoes_2.png',
     'company': 'Addidas',
-    'sizes': [9.0, 10.0, 12.0],
+    'sizes': [9, 10, 12],
   },
   {
     'id': '2',
@@ -21,7 +21,7 @@ final products = [
     'price': 28.95,
     'imageUrl': 'assets/images/shoes_3.png',
     'company': 'Bata',
-    'sizes': [8.0, 9.0, 10.0],
+    'sizes': [8, 9, 10],
   },
   {
     'id': '3',
@@ -29,7 +29,7 @@ final products = [
     'price': 420.69,
     'imageUrl': 'assets/images/shoes_4.png',
     'company': 'Nike',
-    'sizes': [8.0, 9.0, 10.0],
+    'sizes': [8, 9, 10],
   },
 ];
 
@@ -40,6 +40,6 @@ final cart = [
     'price': 420.69,
     'imageUrl': 'assets/images/shoes_4.png',
     'company': 'Nike',
-    'sizes': [8.0, 9.0, 10.0],
+    'sizes': 8,
   },
 ];
